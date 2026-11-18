@@ -1,0 +1,5 @@
+{"id": "pos-1", "input": "The setup took two minutes and everything just worked.", "expected": "positive"}
+{"id": "pos-2", "input": "Support answered within an hour and fixed my issue.", "expected": "positive"}
+{"id": "neg-1", "input": "The app crashed three times before I could save my work.", "expected": "negative"}
+{"id": "neg-2", "input": "I was charged twice and nobody replied to my emails.", "expected": "negative"}
+{"id": "neu-1", "input": "The package arrived on Tuesday.", "expected": "neutral"}

@@ -1,0 +1,8 @@
+{
+  "_note": "PLACEHOLDER outputs written by hand so the template's CI runs. Replace with real ones: uv run python evals/run_evals.py --mode live --record",
+  "The setup took two minutes and everything just worked.": "positive",
+  "Support answered within an hour and fixed my issue.": "positive",
+  "The app crashed three times before I could save my work.": "negative",
+  "I was charged twice and nobody replied to my emails.": "negative",
+  "The package arrived on Tuesday.": "neutral"
+}
